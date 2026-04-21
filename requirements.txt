@@ -1,0 +1,7 @@
+langgraph
+langchain
+langchain-groq
+requests
+beautifulsoup4
+bert-score
+gradio
