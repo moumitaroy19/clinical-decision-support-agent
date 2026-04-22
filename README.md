@@ -9,7 +9,7 @@
 An intelligent Medical AI Agent that takes patient symptoms as natural language input, searches real PubMed medical literature in real-time, and generates structured clinical recommendations with citations. Built with LangGraph for agent orchestration and LLaMA 3.3 70B via Groq for clinical reasoning.
 
 ## 🎯 Live Demo
-👉 Hugging Face Spaces — coming soon
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/mou11/clinical-decision-support-agent)
 
 ## 🤖 How the Agent Works
 
@@ -77,5 +77,5 @@ This system is for educational and research purposes only. It does not provide m
 ✅ Agent built and tested
 ✅ PubMed integration working
 ✅ BERTScore evaluation implemented
-✅ Gradio demo working
-⏳ Hugging Face deployment coming soon
+✅ Gradio demo deployed on Hugging Face Spaces
+✅ Live demo available
